@@ -151,6 +151,9 @@ SELECT * FROM sell_through_sep_dec;
 ---
 
 ## Data Modelling
+**Power BI Data Modelling**
+![image](https://github.com/user-attachments/assets/96352205-6013-4f33-b344-6129b0fd4613)
+
 - **Metrics**:
   - **Basket Size**: `Quantity Sales / Active Outlets (AO)`
   - **Contribution Analysis**: Sell-In and Sell-Through contributions by distributor branch.
@@ -169,6 +172,13 @@ SELECT * FROM sell_through_sep_dec;
   - Sales trends by month and distributor.
   - Regional performance breakdowns.
   - Brand contribution analysis.
+  - Store grade analysis contribution.
+  - Comparison distributor company and  by branch performance to National performance.
+  - Store with dedicated BA vs Non BA comparison on distributors to national wise.
+  - SKU assortment performance breakdowns by distributors to national wise.
+  - Distributors branch proportion to each distributors company.
+ 
+
 
 ---
 
